@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T07:47:31+08:00",
+  "updated_at": "2026-11-20T19:47:31+08:00",
   "source_ok": true,
   "subscribed": false,
   "plan": "免费版",
@@ -7,6 +7,6 @@
   "remaining_percent": 0.0,
   "reset_at": "2026-11-22T11:41:00+08:00",
   "reset_text": "11月22日 11:41",
-  "extra_used_percent": 3.0,
+  "extra_used_percent": 4.0,
   "extra_left_text": "13B"
 }
