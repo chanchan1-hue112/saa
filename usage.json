@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-22T07:47:31+08:00",
+  "updated_at": "2026-11-22T19:47:30+08:00",
   "source_ok": true,
   "subscribed": false,
   "plan": "免费版",
-  "used_percent": 100.0,
-  "remaining_percent": 0.0,
-  "reset_at": "2026-11-22T11:41:00+08:00",
-  "reset_text": "11月22日 11:41",
+  "used_percent": 24.0,
+  "remaining_percent": 76.0,
+  "reset_at": "2026-11-29T11:43:00+08:00",
+  "reset_text": "11月29日 11:43",
   "extra_used_percent": 4.0,
   "extra_left_text": "13B"
 }
